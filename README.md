@@ -21,22 +21,22 @@ Este é um programa para gerenciar uma agenda de contatos em Python, usando Stre
 </div>
 
 ## Modulos
-# Main.py
-- Importações
+### Main.py
+- **Importações:**
 Importa as bibliotecas necessárias, incluindo Streamlit para criar a interface e a classe Agenda do módulo agenda.
-- Inicialização da Agenda
+- **Inicialização da Agenda:**
 Cria uma instância da classe Agenda para representar a agenda de contatos e carrega os dados da agenda.
-- Definição do Título:
+- **Definição do Título:**
 Define o título da aplicação como "Agenda de Contatos".
-- Mostrar Informações da Agenda:
+- **Mostrar Informações da Agenda:**
 Mostra o nome do arquivo, o ID único da agenda e a quantidade de contatos.
-- Mostrar Contatos em Ordem Alfabética:
+- **Mostrar Contatos em Ordem Alfabética:**
 Mostra os contatos ordenados por nome.
-- Adicionar Novo Contato:
+- **Adicionar Novo Contato:**
 Permite ao usuário adicionar um novo contato inserindo informações como nome, email, idade e número.
-- Editar Contato Existente:
+- **Editar Contato Existente:**
 Permite ao usuário editar informações de um contato existente selecionando o contato e inserindo novas informações.
-- Excluir Contato:
+- **Excluir Contato:**
 Permite ao usuário excluir um contato existente selecionando o contato a ser excluído.
 
 
