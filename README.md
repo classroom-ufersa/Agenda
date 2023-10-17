@@ -14,7 +14,12 @@ Este é um programa para gerenciar uma agenda de contatos em Python, usando Stre
 - Cada contato deve ter nome, email, idade, e contato
 
 ## Sobre o sistema
-Desenvolvido por Karllos Eduardo
-Linguagem utilzada
+- Desenvolvido por Karllos Eduardo
+- Linguagem utilzada
+- 
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 10px;">
+</div>
+
 
 
